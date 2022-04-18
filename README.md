@@ -1,4 +1,4 @@
-# cryptonomicon
+# simple todo
 
 ## Project setup
 ```
